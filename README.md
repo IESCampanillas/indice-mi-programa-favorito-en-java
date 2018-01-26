@@ -14,3 +14,5 @@ Indice para el ejercicio "Mi programa favorito en Java"
 [Iván Miranda Stavenuiter](https://github.com/ivanmirandastavenuiter/mi-programa-favorito-en-java)
 
 [Adrián Chamorro Silva](https://github.com/AdrianChSilva/mi-programa-favorito-en-java)
+
+[Jesús Martín Castro](https://github.com/Jesusmc82/mi-programa-favorito-en-java)
