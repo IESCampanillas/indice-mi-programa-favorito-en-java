@@ -17,4 +17,4 @@ Indice para el ejercicio "Mi programa favorito en Java"
 
 [Jesús Martín Castro](https://github.com/Jesusmc82/mi-programa-favorito-en-java)
 
-[Francisco Jesus Caballero Molina] (https://github.com/fjcmolina/mi-programa-favorito-en-java)
+[Francisco Jesus Caballero Molina](https://github.com/fjcmolina/mi-programa-favorito-en-java)
