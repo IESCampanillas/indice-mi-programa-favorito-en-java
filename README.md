@@ -1,5 +1,4 @@
-# indice-mi-programa-favorito-en-java
-Indice para el ejercicio "Mi programa favorito en Java"
+# Indice para el ejercicio "Mi programa favorito en Java"
 
 * [David Balsas Martín](https://github.com/davidbalsasmartin/mi-programa-favorito-en-java)
 
